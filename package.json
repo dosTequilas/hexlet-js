@@ -11,5 +11,9 @@
     "lodash": "^4.17.21"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "prettier": "^2.3.2"
+  }
 }
